@@ -20,6 +20,10 @@
 
 // function to generate markdown for README
 function generateMarkdown(data) {
+  // const avatar = `https://github.com/${data.username}.png?size=50`;
+  // const gitHub = `https://img.shields.io/badge/Github-${data.username}-4cbbb9`;
+
+
   return `
   # ${data.title}
 
@@ -35,7 +39,10 @@ function generateMarkdown(data) {
   1. [Installation](#Installation)
   2. [Usage](#Usage)
   3. [License](#License)
-  4. [Links](#Links)
+  4. [Contributing](#Contributing)
+  5. [Links](#Links)
+  6. [Tests](#Testing)
+  7. [Email](#Contact)
   
   ---
 
@@ -51,7 +58,11 @@ function generateMarkdown(data) {
   ## License:
  ![License](https://img.shields.io/badge/License-${data.license}-yellow) 
  
- 
+ ---
+
+ ## Contributing:
+ ## ${data.Contributing}
+---
 
  ## Links
 
@@ -60,7 +71,18 @@ function generateMarkdown(data) {
         
   Github: ${data.Github}
 
-            
+
+  ---
+
+  ## Testing:
+  ## ${data.Tests}
+
+  ---
+
+  ## Contact
+ 
+  If you have any questions, contact the author directly at ${data.Email}
+  
 `;
 }
 

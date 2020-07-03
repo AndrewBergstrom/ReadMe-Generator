@@ -10,11 +10,13 @@ const questions = [
         name: "name",
         message: "What is your name?"
     },
+
     {
         type: "input",
         name: "description",
         message: "Please write a short description about your project.",
     },
+
     {
         type: "input",
         name: "installation",
@@ -34,17 +36,36 @@ const questions = [
         choices: ["MIT","ODbL"]
 
     },
+
+    {
+        type: "input",
+        name: "Contributing",
+        message: "Details for how to contribute."
+    },
   
     {
         type: "input",
         name: "LinkedIn",
         message: "Please provide your linkedIn URL."
     },
+
     {
         type: "input",
         name: "Github",
         message: "please provide your Github URL."
-    }
+    },
+
+    {
+        type: "input",
+        name: "Tests",
+        message: "Describe how to test"
+    },
+
+    {
+        type: "input",
+        name: "Email",
+        message: "What is your email?"
+    },
 ]
 module.exports={
     questions:questions
