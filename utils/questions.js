@@ -11,20 +11,33 @@ const questions = [
         message: "What is your name?"
     },
     {
+        type: "input",
+        name: "description",
+        message: "Please write a short description about your project.",
+    },
+    {
+        type: "input",
+        name: "installation",
+        message: "Please provide any installation instructions.",
+    },
+
+    {
+        type: "input",
+        name: "usage",
+        message: "How to use.",
+    },
+
+    {
         type: "list",
         name: "license",
         message: "What is your license number",
-        choices: ["MIT"]
+        choices: ["MIT","ODbL"]
 
     },
+  
     {
         type: "input",
-        name: "bio",
-        message: "Please write a short description about yourself.",
-    },
-    {
-        type: "input",
-        name: "linkedIn",
+        name: "LinkedIn",
         message: "Please provide your linkedIn URL."
     },
     {

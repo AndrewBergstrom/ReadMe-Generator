@@ -1,23 +1,37 @@
 
-  # ReadMe
+  # README
 
-  ## I like water
+  ## Project Creator: 
+  ### Andrew Bergstrom
+---
+  
+  ## Project Description:
+  ### A good readme
+---
+ 
+  ## Table of Content
+  1. [Installation](#Installation)
+  2. [Usage](#Usage)
+  3. [License](#License)
+  4. [Links](#Links)
+  
+  ---
 
-  # Table of Content
+  ## Installation:
+  ## None
 
-  1. [License](#License)
-  2. [Links](#Links)
-        
-  ## Andrew
+  ---      
 
-  step1 : 
-  step2 :
+  ## Usage:
+  ## It's easy
 
-  # License:
+  ---
+  ## License:
+ ![License](https://img.shields.io/badge/License-MIT-yellow) 
+ 
+ 
 
- ![License](https://img.shields.io/badge/License-MIT-green) 
-    
- # Links
+ ## Links
 
   linkedIn: 
 
