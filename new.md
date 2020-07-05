@@ -2,11 +2,11 @@
   # README
 
   ## Project Creator: 
-  ### andrew bergstrom
+  ### Andrew Bergstrom
 ---
   
   ## Project Description:
-  ### I dont have one
+  ### This is a professional README generator
 ---
  
   ## Table of Content
@@ -21,12 +21,12 @@
   ---
 
   ## Installation:
-  ## there are none
+  ## User must install the inquirer package
 
   ---      
 
   ## Usage:
-  ## be more specific
+  ## 1) in vs code open your terminal 2)from your command line fill out the questionaire 
 
   ---
   ## License:
@@ -35,25 +35,25 @@
  ---
 
  ## Contributing:
- ## No one can
+ ## Please contact the author if you would like to contribute
 ---
 
  ## Links
 
-  linkedIn: 
+  linkedIn: https://www.linkedin.com/in/andrew-bergstrom-74a79aa4/
 
         
-  Github: 
+  Github: https://github.com/AndrewBergstrom?tab=repositories
 
 
   ---
 
   ## Testing:
-  ## No testing
+  ## Not available at this time
 
   ---
 
   ## Contact
  
-  If you have any questions, contact the author directly at Andrew.Bergstrom88@gmail.com
+  If you have any questions, contact the author directly at Andrew.bergstrom88@gmail.com
   
